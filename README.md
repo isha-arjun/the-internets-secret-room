@@ -100,4 +100,4 @@ A mysterious little experiment in interactive storytelling, puzzle design, and b
 
 ## 📜 License
 
-A license has not been selected yet. Until a license is added, do not assume that others have permission to reuse, modify, or redistribute this project's code.
+This repository is licensed under the MIT License.
